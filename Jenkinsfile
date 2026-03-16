@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "maazali/2023bcs0202_assessment_6"
+        IMAGE_NAME = "2023bcs0202maaz/2023bcs0202_assessment_5"
     }
 
     stages {
